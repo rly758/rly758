@@ -12,6 +12,8 @@ Hi, and thank you for taking the time to visit my GitHub. I'm Richard, a recent 
 #### Classification
   - 
 #### Clustering
+  -
+#### Time Series
   - 
 #### SQL
   - 
