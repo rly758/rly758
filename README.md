@@ -30,9 +30,9 @@ Hi, and thank you for taking the time to visit my GitHub. I'm Richard, a recent 
 
   - [STA 141 - Fundamentals of Statistical Data Science](https://github.com/rly758/Coursework/tree/main/UC%20Davis/STA%20141)
 
-- [Education](#Education)
+#### [Education](#Education)
 
-### Education
+## Education
 
 I attended Pasadena City College from Fall 2017 to Spring 2019. At this time, I programmed using C++, Java, and Python, depending on the course. 
 
