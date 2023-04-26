@@ -6,13 +6,16 @@ Hi, and thank you for taking the time to visit my GitHub. I'm Richard, a recent 
 
 (Unlinked items are to be uploaded in the future)
 
-#### Projects
-  - Regression
-  - Classification
-  - Clustering
-  - SQL
-  - Tableau
-#### Learning
+
+#### Regression
+  - 
+#### Classification
+  - 
+#### Clustering
+  - 
+#### SQL
+  - 
+#### Tableau
   - 
 
 #### [Coursework](https://github.com/rly758/Coursework)
