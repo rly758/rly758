@@ -4,7 +4,7 @@ Hi, and thank you for taking the time to visit my GitHub. I'm Richard, a recent 
 
 ## Table of Contents
 
-(Unlinked items are to be uploaded in the future)
+(Unlinked items will be uploaded in the future)
 
 
 #### Regression
