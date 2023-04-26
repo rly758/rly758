@@ -4,8 +4,15 @@ Hi, and thank you for taking the time to visit my GitHub. I'm Richard, a recent 
 
 ## Table of Contents
 
+(Unlinked items are to be uploaded in the future)
+
 - Projects
-  - a
+  - Regression
+  - Classification
+  - Clustering
+- Learning
+  - SQL
+  - Tableau
 - [Coursework](https://github.com/rly758/Coursework)
   - [STA 206 - Statistical Methods for Research I](https://github.com/rly758/Coursework/tree/main/UC%20Davis/STA%20206)
 
