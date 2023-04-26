@@ -1,6 +1,6 @@
 ## Introduction
 
-Hi, and thank you for taking the time to visit my GitHub. I'm Richard, a recent graduate of UC Davis with a M.S. in Statistics. Here I have uploaded some of my projects/reports (a few were completed with small teams) from my coursework at UC Davis. In addition, I intend to upload more individual projects as they are completed. The primary purpose of this is to demonstrate my knowledge and skills, as well as what I may be currently working on or learning. 
+Hi, and thank you for taking the time to visit my GitHub. I'm Richard, a recent graduate of UC Davis with a M.S. in Statistics. Here I have uploaded some of my projects/reports (a few were completed with small teams) from my coursework at UC Davis. In addition, I intend to upload more individual projects as they are completed. The primary purpose of this is to demonstrate my knowledge and skills, as well as share what I may be currently working on or learning. 
 
 ### Education
 
