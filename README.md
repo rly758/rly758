@@ -1,5 +1,9 @@
 ## Introduction
 
+Hi, and thank you for taking the time to visit my GitHub. I'm Richard, a recent graduate of UC Davis with a M.S. in Statistics. Here I have uploaded some of my projects/coursework (a few are group projects) from UC Davis. In addition, I plan to upload more individual projects as they are completed. The primary purpose of this is to demonstrate my knowledge and skills, as well as what I may be currently learning. 
+
+### Education
+
 I attended Pasadena City College from Fall 2017 to Spring 2019. At this time, I programmed using C++, Java, and Python, depending on the course. 
 
 I transferred to University of California, Los Angeles in Fall 2019, and graduated in Spring 2021 with a B.S. in Applied Mathematics. Matlab, C+++, and Python were used often in the Math and Computer Science courses taken here. 
