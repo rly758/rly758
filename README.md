@@ -6,14 +6,14 @@ Hi, and thank you for taking the time to visit my GitHub. I'm Richard, a recent 
 
 (Unlinked items are to be uploaded in the future)
 
-### - Projects
+#### - Projects
   - Regression
   - Classification
   - Clustering
-- Learning
+#### - Learning
   - SQL
   - Tableau
-- [Coursework](https://github.com/rly758/Coursework)
+#### - [Coursework](https://github.com/rly758/Coursework)
   - [STA 206 - Statistical Methods for Research I](https://github.com/rly758/Coursework/tree/main/UC%20Davis/STA%20206)
 
   - [STA 207 - Statistical Methods for Research II](https://github.com/rly758/Coursework/tree/main/UC%20Davis/STA%20207)
