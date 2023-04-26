@@ -4,6 +4,8 @@ Hi, and thank you for taking the time to visit my GitHub. I'm Richard, a recent 
 
 ## Table of Contents
 
+- Projects
+- - a
 - [Coursework](https://github.com/rly758/Coursework)
 - [Education](#Education)
 
