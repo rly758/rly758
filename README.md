@@ -6,7 +6,7 @@ Hi, and thank you for taking the time to visit my GitHub. I'm Richard, a recent 
 
 (Unlinked items are to be uploaded in the future)
 
-- Projects
+### - Projects
   - Regression
   - Classification
   - Clustering
