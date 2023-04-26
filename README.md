@@ -1,4 +1,12 @@
-## Hi there 👋
+## Introduction
+
+I attended Pasadena City College from Fall 2017 to Spring 2019.
+
+I transfered to University of California, Los Angeles in Fall 2019, and graduated in Spring 2021 with a B.S. in Applied Mathematics. 
+
+I attended University of California, Davis starting Fall 2021, graduating with a M.S. in Statistics after the Fall 2022 quarter. My courses at UC Davis aligned with the program's respective Data Science Track. 
+
+
 
 <!--
 **rly758/rly758** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
