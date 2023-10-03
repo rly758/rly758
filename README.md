@@ -7,11 +7,13 @@ Hi, and thank you for taking the time to visit my GitHub. I'm Richard, a graduat
 #### Regression
   - 
 #### Classification
-  - Customer Churn on Telco Subscribers (Random Forest)
+  - Credit Card Fraud Detection on Synthetic Data
+  - Credit Card Fraud Detection on Anonymized Data
+  - Customer Churn on Telco Subscribers
 #### Clustering
-  - Customer Segmentation on E-commerce (K-Means)
+  - Customer Segmentation on E-commerce
 #### Association Rule Mining
-  - Market Basket Analysis on Groceries (Apriori Algorithm)
+  - Market Basket Analysis on Groceries
 #### Time Series
   - 
 #### SQL
