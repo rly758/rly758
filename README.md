@@ -14,8 +14,8 @@ Hi, and thank you for taking the time to visit my GitHub. I'm Richard, a graduat
   - 
 #### SQL
   - 
-#### Tableau
-  - [Public Visualizations](https://public.tableau.com/app/profile/richard.ly5913/vizzes)
+#### [Tableau](https://public.tableau.com/app/profile/richard.ly5913/vizzes)
+  - [Bike Share Rider Activity](https://public.tableau.com/app/profile/richard.ly5913/viz/BikeShareRiderActivity/Dashboard1)
 
 #### [Coursework](https://github.com/rly758/Coursework)
   - [STA 206 - Statistical Methods for Research I](https://github.com/rly758/Coursework/tree/main/UC%20Davis/STA%20206)
