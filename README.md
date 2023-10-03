@@ -9,6 +9,8 @@ Hi, and thank you for taking the time to visit my GitHub. I'm Richard, a graduat
 #### Classification
   - Credit Card Fraud Detection on Synthetic Data
   - Credit Card Fraud Detection on Anonymized Data
+  - Bank Account Creation Fraud Detection
+  - Vehicle Claims Fraud Detection
   - Customer Churn on Telco Subscribers
 #### Clustering
   - Customer Segmentation on E-commerce
