@@ -7,9 +7,11 @@ Hi, and thank you for taking the time to visit my GitHub. I'm Richard, a graduat
 #### Regression
   - 
 #### Classification
-  - 
+  - Customer Churn on Telco Subscribers (Random Forest)
 #### Clustering
   - Customer Segmentation on E-commerce (K-Means)
+#### Association Rule Mining
+  - Market Basket Analysis on Groceries (Apriori Algorithm)
 #### Time Series
   - 
 #### SQL
