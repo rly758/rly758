@@ -14,7 +14,7 @@ Hi, and thank you for taking the time to visit my GitHub. I'm Richard, a graduat
   - 
 #### SQL
   - 
-#### [Tableau](https://public.tableau.com/app/profile/richard.ly5913/vizzes)
+#### [Tableau Dashboards](https://public.tableau.com/app/profile/richard.ly5913/vizzes)
   - [Bike Share Rider Activity](https://public.tableau.com/app/profile/richard.ly5913/viz/BikeShareRiderActivity/Dashboard1)
 
 #### [Coursework](https://github.com/rly758/Coursework)
