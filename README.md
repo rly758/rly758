@@ -2,10 +2,10 @@
 
 Hi, and thank you for taking the time to visit my GitHub. I'm Richard, a graduate of UC Davis with a M.S. in Statistics. Here I have uploaded some of my projects/reports from my coursework at UC Davis. In addition, I intend to upload individual projects as they are completed. The primary purpose of this is to demonstrate my knowledge and skills, as well as share what I may be currently working on or learning. 
 
-## Table of Contents
-
-#### [Tableau Dashboards](https://public.tableau.com/app/profile/richard.ly5913/vizzes)
+## [Tableau Dashboards](https://public.tableau.com/app/profile/richard.ly5913/vizzes)
   - [Bike Share Rider Activity](https://public.tableau.com/app/profile/richard.ly5913/viz/BikeShareRiderActivity/Dashboard1)
+
+## Table of Contents
 
 #### Regression
   - 
