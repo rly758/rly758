@@ -37,7 +37,6 @@ Hi, and thank you for taking the time to visit my GitHub. I'm Richard, a graduat
 
   - [STA 141 - Fundamentals of Statistical Data Science](https://github.com/rly758/Coursework/tree/main/UC%20Davis/STA%20141)
 
-#### [Education](#Education)
 
 ## Education
 
