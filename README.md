@@ -4,9 +4,6 @@ Hi, and thank you for taking the time to visit my GitHub. I'm Richard, a graduat
 
 ## Table of Contents
 
-(Unlinked items will be uploaded in the future)
-
-
 #### Regression
   - 
 #### Classification
