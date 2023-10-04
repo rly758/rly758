@@ -24,7 +24,7 @@ Hi, and thank you for taking the time to visit my GitHub. I'm Richard, a graduat
 #### SQL
   - 
 
-#### [Coursework](https://github.com/rly758/Coursework)
+## [Coursework](https://github.com/rly758/Coursework)
   - [STA 206 - Statistical Methods for Research I](https://github.com/rly758/Coursework/tree/main/UC%20Davis/STA%20206)
 
   - [STA 207 - Statistical Methods for Research II](https://github.com/rly758/Coursework/tree/main/UC%20Davis/STA%20207)
