@@ -16,7 +16,7 @@ Hi, and thank you for taking the time to visit my GitHub. I'm Richard, a graduat
   - Vehicle Claims Fraud Detection
   - Customer Churn on Telco Subscribers
 #### Clustering
-  - Customer Segmentation on E-commerce
+  - [Customer Segmentation on E-commerce](https://github.com/rly758/Projects/blob/main/e_commerce/Segmentation.ipynb)
 #### Association Rule Mining
   - Market Basket Analysis on Groceries
 #### Time Series
