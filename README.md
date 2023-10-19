@@ -10,6 +10,7 @@ Hi, and thank you for taking the time to visit my GitHub. I'm Richard, a graduat
 #### Regression
   - 
 #### Classification
+  - Healthcare Fraud Detection Using Centers for Medicare & Medicaid Services (CMS) Provider Claims (U.S. Medicare Part B)
   - Credit Card Fraud Detection on Synthetic Data
   - Credit Card Fraud Detection on Anonymized Data
   - Bank Account Creation Fraud Detection
