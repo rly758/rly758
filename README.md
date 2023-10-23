@@ -21,7 +21,7 @@ Hi, and thank you for taking the time to visit my GitHub. I'm Richard, a graduat
 #### Association Rule Mining
   - Market Basket Analysis on Groceries
 #### Time Series
-  - Annual Northern Hemisphere Temperature
+  - Forecasting Annual Northern Hemisphere Temperature
 #### SQL
   - 
 
