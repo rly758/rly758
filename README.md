@@ -2,28 +2,6 @@
 
 Hi, and thank you for taking the time to visit my GitHub. I'm Richard, a graduate of UC Davis with a M.S. in Statistics. Here I have uploaded some of my projects/reports from my coursework at UC Davis. In addition, I intend to upload individual projects as they are completed. The primary purpose of this is to demonstrate my knowledge and skills, as well as share what I may be currently working on or learning. 
 
-## [Tableau Dashboards](https://public.tableau.com/app/profile/richard.ly5913/vizzes)
-  - [Bike Share Rider Activity](https://public.tableau.com/app/profile/richard.ly5913/viz/BikeShareRiderActivity/Dashboard1)
-
-## Table of Contents
-
-#### Regression
-  - Multiple Linear Regression on Life Expectancy by Nation
-#### Classification
-  - Healthcare Fraud Detection Using Centers for Medicare & Medicaid Services (CMS) Provider Claims (U.S. Medicare Part B)
-  - Credit Card Fraud Detection on Synthetic Data
-  - Credit Card Fraud Detection on Anonymized Data
-  - Bank Account Creation Fraud Detection
-  - Vehicle Claims Fraud Detection
-  - Customer Churn on Telco Subscribers
-#### Clustering
-  - [Customer Segmentation on E-commerce](https://github.com/rly758/Projects/blob/main/e_commerce/Segmentation.ipynb)
-#### Association Rule Mining
-  - Market Basket Analysis on Groceries
-#### Time Series
-  - Forecasting Annual Northern Hemisphere Temperature
-#### SQL
-  - 
 
 ## [Coursework](https://github.com/rly758/Coursework)
   - [STA 206 - Statistical Methods for Research I](https://github.com/rly758/Coursework/tree/main/UC%20Davis/STA%20206)
